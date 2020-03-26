@@ -1,6 +1,6 @@
 def run():
 	with open('numeros.txt','w') as f:
-		for i in range(10):
+		for i in range(20):
 			f.write(str(i))
 
 
